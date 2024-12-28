@@ -1,0 +1,9 @@
+Nota Fiscal - SanPaolo Gelato
+=================================
+Venda Finalizada!
+Total (sem desconto): R$ 12.0
+Total Final: R$ 12.0
+Método de pagamento: Dinheiro
+=================================
+Obrigado por comprar conosco!
+=================================
